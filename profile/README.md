@@ -2,7 +2,7 @@
 
 Let's discover **Barklarm in less than 120 seconds**.
 
-![Tarant Intro.webm]()
+[intro.webm](https://github.com/Barklarm/.github/assets/3071208/932129a0-d1d2-49cf-851f-f933e63daeef)
 
 ## What is Barklarm?
 
