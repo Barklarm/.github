@@ -1,12 +1,17 @@
-## Hi there 👋
+# Welcome
 
-<!--
+Let's discover **Barklarm in less than 120 seconds**.
 
-**Here are some ideas to get you started:**
+![Tarant Intro.webm]()
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## What is Barklarm?
+
+Barklarm is a cross-platform app created using electron that allows you to add notifications to your computer to understand better the real-time behavior of your system. You can observe your CI/CD deployments, alarms, metrics, etc.
+
+## Is Barklarm for me?
+
+If you are running production services and want to be able to react as soon as possible to issues without the mental bandwidth of checking different places manually, I would say yes!
+
+## Ready to get started?
+
+Find out how to define and use your observers in [Quick Start](https://www.barklarm.com/docs/quick-start). Or visit the [page](https://www.barklarm.com/) and [its repo](https://github.com/kanekotic/barklarm) and start exploring.
